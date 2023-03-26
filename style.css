@@ -1,0 +1,14 @@
+container{
+diplay flex;
+flex-display:inlineflex;
+}
+menu-bar{
+diplay flex;
+text-align:center;
+}
+menu-bar ul li{
+color:blue;
+margin:10px;
+padding:0;
+width:120px;
+}
