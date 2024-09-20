@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nithieskumar/sem/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/nithieskumar/sem/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/nithieskumar/sem/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/nithieskumar/sem/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/nithieskumar/sem/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/nithieskumar/sem/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/nithieskumar/sem/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/nithieskumar/sem/tree/master/0874-backspace-string-compare) |
 | [1205-defanging-an-ip-address](https://github.com/nithieskumar/sem/tree/master/1205-defanging-an-ip-address) |
 ## Simulation
