@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/nithieskumar/sem/tree/master/0125-valid-palindrome) |
 | [0874-backspace-string-compare](https://github.com/nithieskumar/sem/tree/master/0874-backspace-string-compare) |
+| [1205-defanging-an-ip-address](https://github.com/nithieskumar/sem/tree/master/1205-defanging-an-ip-address) |
 ## Simulation
 |  |
 | ------- |
