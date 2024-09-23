@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/nithieskumar/sem/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/nithieskumar/sem/tree/master/0273-integer-to-english-words) |
 ## Memoization
 |  |
@@ -164,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithieskumar/sem/tree/master/1786-count-the-number-of-consistent-strings) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/nithieskumar/sem/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
