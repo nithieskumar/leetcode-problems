@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nithieskumar/sem/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nithieskumar/sem/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nithieskumar/sem/tree/master/0055-jump-game) |
+| [0464-can-i-win](https://github.com/nithieskumar/sem/tree/master/0464-can-i-win) |
 ## Greedy
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/nithieskumar/sem/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nithieskumar/sem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/nithieskumar/sem/tree/master/0441-arranging-coins) |
+| [0464-can-i-win](https://github.com/nithieskumar/sem/tree/master/0464-can-i-win) |
 | [0504-base-7](https://github.com/nithieskumar/sem/tree/master/0504-base-7) |
 | [1031-add-to-array-form-of-integer](https://github.com/nithieskumar/sem/tree/master/1031-add-to-array-form-of-integer) |
 | [1195-distribute-candies-to-people](https://github.com/nithieskumar/sem/tree/master/1195-distribute-candies-to-people) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nithieskumar/sem/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0464-can-i-win](https://github.com/nithieskumar/sem/tree/master/0464-can-i-win) |
 ## Enumeration
 |  |
 | ------- |
@@ -141,4 +144,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/nithieskumar/sem/tree/master/0273-integer-to-english-words) |
+## Memoization
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/nithieskumar/sem/tree/master/0464-can-i-win) |
+## Game Theory
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/nithieskumar/sem/tree/master/0464-can-i-win) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/nithieskumar/sem/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
