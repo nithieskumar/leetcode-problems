@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nithieskumar/sem/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2752-sum-multiples](https://github.com/nithieskumar/sem/tree/master/2752-sum-multiples) |
 | [2857-total-distance-traveled](https://github.com/nithieskumar/sem/tree/master/2857-total-distance-traveled) |
+| [3371-harshad-number](https://github.com/nithieskumar/sem/tree/master/3371-harshad-number) |
 ## Hash Table
 |  |
 | ------- |
