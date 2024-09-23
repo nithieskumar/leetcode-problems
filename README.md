@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/nithieskumar/sem/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/nithieskumar/sem/tree/master/0874-backspace-string-compare) |
 | [1195-distribute-candies-to-people](https://github.com/nithieskumar/sem/tree/master/1195-distribute-candies-to-people) |
+| [2857-total-distance-traveled](https://github.com/nithieskumar/sem/tree/master/2857-total-distance-traveled) |
 ## Math
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/nithieskumar/sem/tree/master/2383-add-two-integers) |
 | [2507-number-of-common-factors](https://github.com/nithieskumar/sem/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nithieskumar/sem/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2857-total-distance-traveled](https://github.com/nithieskumar/sem/tree/master/2857-total-distance-traveled) |
 ## Hash Table
 |  |
 | ------- |
