@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/nithieskumar/sem/tree/master/0504-base-7) |
 | [1195-distribute-candies-to-people](https://github.com/nithieskumar/sem/tree/master/1195-distribute-candies-to-people) |
 | [2383-add-two-integers](https://github.com/nithieskumar/sem/tree/master/2383-add-two-integers) |
+| [2507-number-of-common-factors](https://github.com/nithieskumar/sem/tree/master/2507-number-of-common-factors) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/nithieskumar/sem/tree/master/0258-add-digits) |
+| [2507-number-of-common-factors](https://github.com/nithieskumar/sem/tree/master/2507-number-of-common-factors) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nithieskumar/sem/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/nithieskumar/sem/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
