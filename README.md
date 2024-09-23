@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/nithieskumar/sem/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/nithieskumar/sem/tree/master/0367-valid-perfect-square) |
 | [0398-random-pick-index](https://github.com/nithieskumar/sem/tree/master/0398-random-pick-index) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/nithieskumar/sem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/nithieskumar/sem/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/nithieskumar/sem/tree/master/0504-base-7) |
 | [1195-distribute-candies-to-people](https://github.com/nithieskumar/sem/tree/master/1195-distribute-candies-to-people) |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/nithieskumar/sem/tree/master/0398-random-pick-index) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/nithieskumar/sem/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
