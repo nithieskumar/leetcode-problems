@@ -6,19 +6,13 @@ class Solution {
             return 0;
         }
         int n=s.length();
+        char []c=s.toCharArray();
         for(int i=2;i<n;i++)
         {
-        int a=s.charAt(i-2);
-        int b=s.charAt(i-1);
-        int c=s.charAt(i);
-            if(a!=b&&b!=c&&c!=a)
+        
+            if(c[i-2]!=c[i-1]&&c[i-1]!=c[i]&&c[i]!=c[i-2])
             {
                 res++;
-            }
-            else{
-                a=b;
-                b=c;
-                c=s.charAt(i);
             }
         }
        
