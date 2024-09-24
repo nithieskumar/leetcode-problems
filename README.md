@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nithieskumar/sem/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/nithieskumar/sem/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/nithieskumar/sem/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nithieskumar/sem/tree/master/0240-search-a-2d-matrix-ii) |
 | [1031-add-to-array-form-of-integer](https://github.com/nithieskumar/sem/tree/master/1031-add-to-array-form-of-integer) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nithieskumar/sem/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithieskumar/sem/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nithieskumar/sem/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nithieskumar/sem/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/nithieskumar/sem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/nithieskumar/sem/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/nithieskumar/sem/tree/master/0441-arranging-coins) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nithieskumar/sem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -190,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/nithieskumar/sem/tree/master/0219-contains-duplicate-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/nithieskumar/sem/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
