@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/nithieskumar/sem/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nithieskumar/sem/tree/master/0240-search-a-2d-matrix-ii) |
+| [1873-longest-nice-substring](https://github.com/nithieskumar/sem/tree/master/1873-longest-nice-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/nithieskumar/sem/tree/master/1205-defanging-an-ip-address) |
 | [1660-thousand-separator](https://github.com/nithieskumar/sem/tree/master/1660-thousand-separator) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithieskumar/sem/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1873-longest-nice-substring](https://github.com/nithieskumar/sem/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nithieskumar/sem/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nithieskumar/sem/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3194-find-words-containing-character](https://github.com/nithieskumar/sem/tree/master/3194-find-words-containing-character) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/nithieskumar/sem/tree/master/0782-jewels-and-stones) |
 | [1256-rank-transform-of-an-array](https://github.com/nithieskumar/sem/tree/master/1256-rank-transform-of-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithieskumar/sem/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1873-longest-nice-substring](https://github.com/nithieskumar/sem/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nithieskumar/sem/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Number Theory
 |  |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nithieskumar/sem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/nithieskumar/sem/tree/master/0464-can-i-win) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithieskumar/sem/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1873-longest-nice-substring](https://github.com/nithieskumar/sem/tree/master/1873-longest-nice-substring) |
 ## Enumeration
 |  |
 | ------- |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/nithieskumar/sem/tree/master/0219-contains-duplicate-ii) |
 | [1755-defuse-the-bomb](https://github.com/nithieskumar/sem/tree/master/1755-defuse-the-bomb) |
+| [1873-longest-nice-substring](https://github.com/nithieskumar/sem/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nithieskumar/sem/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Matrix
 |  |
