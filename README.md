@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/nithieskumar/sem/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/nithieskumar/sem/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nithieskumar/sem/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/nithieskumar/sem/tree/master/0268-missing-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/nithieskumar/sem/tree/master/1031-add-to-array-form-of-integer) |
 | [1256-rank-transform-of-an-array](https://github.com/nithieskumar/sem/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nithieskumar/sem/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nithieskumar/sem/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/nithieskumar/sem/tree/master/0268-missing-number) |
 | [1256-rank-transform-of-an-array](https://github.com/nithieskumar/sem/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nithieskumar/sem/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/nithieskumar/sem/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nithieskumar/sem/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/nithieskumar/sem/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/nithieskumar/sem/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/nithieskumar/sem/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/nithieskumar/sem/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/nithieskumar/sem/tree/master/0367-valid-perfect-square) |
 | [0398-random-pick-index](https://github.com/nithieskumar/sem/tree/master/0398-random-pick-index) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nithieskumar/sem/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/nithieskumar/sem/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/nithieskumar/sem/tree/master/0268-missing-number) |
 | [0398-random-pick-index](https://github.com/nithieskumar/sem/tree/master/0398-random-pick-index) |
 | [0782-jewels-and-stones](https://github.com/nithieskumar/sem/tree/master/0782-jewels-and-stones) |
 | [1256-rank-transform-of-an-array](https://github.com/nithieskumar/sem/tree/master/1256-rank-transform-of-an-array) |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/nithieskumar/sem/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/nithieskumar/sem/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/nithieskumar/sem/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/nithieskumar/sem/tree/master/0441-arranging-coins) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nithieskumar/sem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -164,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nithieskumar/sem/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/nithieskumar/sem/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nithieskumar/sem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/nithieskumar/sem/tree/master/0464-can-i-win) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithieskumar/sem/tree/master/1786-count-the-number-of-consistent-strings) |
