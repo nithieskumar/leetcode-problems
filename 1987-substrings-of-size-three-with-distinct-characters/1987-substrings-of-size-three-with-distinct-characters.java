@@ -1,24 +1,27 @@
 class Solution {
     public int countGoodSubstrings(String s) {
-        int n = s.length(), cnt = 0;
-        for (int i = 0; i < n - 2; ++i){
-            //Find a Substring of length 3
-            String substring = s.substring(i, i + 3);
-            //Create a HashSet for charachters storage
-            HashSet<Character> charSet = new HashSet<>();
-            boolean isUnique = true;
-            for (char c : substring.toCharArray()) {
-                // Try to add the character to the set
-                if (!charSet.add(c)) {
-                    isUnique = false; // If add returns false, it's a duplicate
-                    break; // No need to check further
-                }
+        int res=0;
+        if(s.length()<3)
+        {
+            return 0;
+        }
+        int n=s.length();
+        for(int i=2;i<n;i++)
+        {
+        int a=s.charAt(i-2);
+        int b=s.charAt(i-1);
+        int c=s.charAt(i);
+            if(a!=b&&b!=c&&c!=a)
+            {
+                res++;
             }
-
-            if (isUnique) {
-                cnt++; // It's a good substring
+            else{
+                a=b;
+                b=c;
+                c=s.charAt(i);
             }
         }
-        return cnt;
+       
+        return res;
     }
 }
