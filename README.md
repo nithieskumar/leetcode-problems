@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nithieskumar/sem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nithieskumar/sem/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/nithieskumar/sem/tree/master/2551-apply-operations-to-an-array) |
+| [3194-find-words-containing-character](https://github.com/nithieskumar/sem/tree/master/3194-find-words-containing-character) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/nithieskumar/sem/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Divide and Conquer
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1660-thousand-separator](https://github.com/nithieskumar/sem/tree/master/1660-thousand-separator) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithieskumar/sem/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nithieskumar/sem/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [3194-find-words-containing-character](https://github.com/nithieskumar/sem/tree/master/3194-find-words-containing-character) |
 ## Simulation
 |  |
 | ------- |
