@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nithieskumar/sem/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nithieskumar/sem/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nithieskumar/sem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0136-single-number](https://github.com/nithieskumar/sem/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/nithieskumar/sem/tree/master/0238-product-of-array-except-self) |
 | [1031-add-to-array-form-of-integer](https://github.com/nithieskumar/sem/tree/master/1031-add-to-array-form-of-integer) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nithieskumar/sem/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/nithieskumar/sem/tree/master/0136-single-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nithieskumar/sem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/nithieskumar/sem/tree/master/0464-can-i-win) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithieskumar/sem/tree/master/1786-count-the-number-of-consistent-strings) |
