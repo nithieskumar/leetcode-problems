@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/nithieskumar/sem/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nithieskumar/sem/tree/master/0240-search-a-2d-matrix-ii) |
 | [1031-add-to-array-form-of-integer](https://github.com/nithieskumar/sem/tree/master/1031-add-to-array-form-of-integer) |
+| [1256-rank-transform-of-an-array](https://github.com/nithieskumar/sem/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nithieskumar/sem/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithieskumar/sem/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nithieskumar/sem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nithieskumar/sem/tree/master/0075-sort-colors) |
+| [1256-rank-transform-of-an-array](https://github.com/nithieskumar/sem/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nithieskumar/sem/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/nithieskumar/sem/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/nithieskumar/sem/tree/master/0219-contains-duplicate-ii) |
 | [0398-random-pick-index](https://github.com/nithieskumar/sem/tree/master/0398-random-pick-index) |
 | [0782-jewels-and-stones](https://github.com/nithieskumar/sem/tree/master/0782-jewels-and-stones) |
+| [1256-rank-transform-of-an-array](https://github.com/nithieskumar/sem/tree/master/1256-rank-transform-of-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithieskumar/sem/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Number Theory
 |  |
