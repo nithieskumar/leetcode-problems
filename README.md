@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/nithieskumar/sem/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/nithieskumar/sem/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/nithieskumar/sem/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/nithieskumar/sem/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/nithieskumar/sem/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/nithieskumar/sem/tree/master/0874-backspace-string-compare) |
 | [1205-defanging-an-ip-address](https://github.com/nithieskumar/sem/tree/master/1205-defanging-an-ip-address) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/nithieskumar/sem/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/nithieskumar/sem/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/nithieskumar/sem/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/nithieskumar/sem/tree/master/0383-ransom-note) |
 | [0398-random-pick-index](https://github.com/nithieskumar/sem/tree/master/0398-random-pick-index) |
 | [0782-jewels-and-stones](https://github.com/nithieskumar/sem/tree/master/0782-jewels-and-stones) |
 | [1256-rank-transform-of-an-array](https://github.com/nithieskumar/sem/tree/master/1256-rank-transform-of-an-array) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/nithieskumar/sem/tree/master/0383-ransom-note) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithieskumar/sem/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nithieskumar/sem/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Linked List
