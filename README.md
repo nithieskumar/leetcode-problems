@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nithieskumar/sem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/nithieskumar/sem/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/nithieskumar/sem/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/nithieskumar/sem/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/nithieskumar/sem/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/nithieskumar/sem/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nithieskumar/sem/tree/master/0240-search-a-2d-matrix-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nithieskumar/sem/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nithieskumar/sem/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/nithieskumar/sem/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/nithieskumar/sem/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/nithieskumar/sem/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/nithieskumar/sem/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/nithieskumar/sem/tree/master/0273-integer-to-english-words) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/nithieskumar/sem/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/nithieskumar/sem/tree/master/0258-add-digits) |
 | [2507-number-of-common-factors](https://github.com/nithieskumar/sem/tree/master/2507-number-of-common-factors) |
 ## Binary Search
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/nithieskumar/sem/tree/master/0204-count-primes) |
 | [2507-number-of-common-factors](https://github.com/nithieskumar/sem/tree/master/2507-number-of-common-factors) |
 ## Recursion
 |  |
