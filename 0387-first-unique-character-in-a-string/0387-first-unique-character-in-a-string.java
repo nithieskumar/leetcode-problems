@@ -3,7 +3,7 @@ class Solution {
         int n=s.length();
         int[] s1=new int[26];
         char[] ch=s.toCharArray();
-        for(char i:s.toCharArray() )
+        for(char i:ch)
         {
             s1[i-'a']++;
         }
