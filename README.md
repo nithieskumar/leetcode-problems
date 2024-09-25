@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/nithieskumar/sem/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/nithieskumar/sem/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/nithieskumar/sem/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/nithieskumar/sem/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/nithieskumar/sem/tree/master/0344-reverse-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/nithieskumar/sem/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/nithieskumar/sem/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/nithieskumar/sem/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/nithieskumar/sem/tree/master/0874-backspace-string-compare) |
 | [1195-distribute-candies-to-people](https://github.com/nithieskumar/sem/tree/master/1195-distribute-candies-to-people) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/nithieskumar/sem/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/nithieskumar/sem/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/nithieskumar/sem/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/nithieskumar/sem/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/nithieskumar/sem/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/nithieskumar/sem/tree/master/0268-missing-number) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nithieskumar/sem/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/nithieskumar/sem/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nithieskumar/sem/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nithieskumar/sem/tree/master/0405-convert-a-number-to-hexadecimal) |
