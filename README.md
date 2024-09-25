@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nithieskumar/sem/tree/master/0268-missing-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/nithieskumar/sem/tree/master/1031-add-to-array-form-of-integer) |
 | [1256-rank-transform-of-an-array](https://github.com/nithieskumar/sem/tree/master/1256-rank-transform-of-an-array) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/nithieskumar/sem/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nithieskumar/sem/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1755-defuse-the-bomb](https://github.com/nithieskumar/sem/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithieskumar/sem/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/nithieskumar/sem/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/nithieskumar/sem/tree/master/0268-missing-number) |
 | [1256-rank-transform-of-an-array](https://github.com/nithieskumar/sem/tree/master/1256-rank-transform-of-an-array) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/nithieskumar/sem/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nithieskumar/sem/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/nithieskumar/sem/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/nithieskumar/sem/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/nithieskumar/sem/tree/master/0874-backspace-string-compare) |
 | [1205-defanging-an-ip-address](https://github.com/nithieskumar/sem/tree/master/1205-defanging-an-ip-address) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/nithieskumar/sem/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1660-thousand-separator](https://github.com/nithieskumar/sem/tree/master/1660-thousand-separator) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithieskumar/sem/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/nithieskumar/sem/tree/master/1873-longest-nice-substring) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/nithieskumar/sem/tree/master/0398-random-pick-index) |
 | [0782-jewels-and-stones](https://github.com/nithieskumar/sem/tree/master/0782-jewels-and-stones) |
 | [1256-rank-transform-of-an-array](https://github.com/nithieskumar/sem/tree/master/1256-rank-transform-of-an-array) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/nithieskumar/sem/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithieskumar/sem/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/nithieskumar/sem/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nithieskumar/sem/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
