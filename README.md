@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nithieskumar/sem/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nithieskumar/sem/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nithieskumar/sem/tree/master/0055-jump-game) |
+| [0392-is-subsequence](https://github.com/nithieskumar/sem/tree/master/0392-is-subsequence) |
 | [0464-can-i-win](https://github.com/nithieskumar/sem/tree/master/0464-can-i-win) |
 ## Greedy
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nithieskumar/sem/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/nithieskumar/sem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nithieskumar/sem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/nithieskumar/sem/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/nithieskumar/sem/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/nithieskumar/sem/tree/master/0908-middle-of-the-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/nithieskumar/sem/tree/master/2551-apply-operations-to-an-array) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nithieskumar/sem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nithieskumar/sem/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nithieskumar/sem/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/nithieskumar/sem/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/nithieskumar/sem/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/nithieskumar/sem/tree/master/0874-backspace-string-compare) |
 | [1205-defanging-an-ip-address](https://github.com/nithieskumar/sem/tree/master/1205-defanging-an-ip-address) |
