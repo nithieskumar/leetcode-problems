@@ -1,6 +1,6 @@
 class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
-        List<Integer> l=new ArrayList<>();
+        int[] l=new int[nums2.length];
        int[] inter=new int[1001];
        int k=0;
        for(int i:nums1)
@@ -11,17 +11,13 @@ class Solution {
        {
          if(inter[i]>0)
          {
-            l.add(i);
+            l[k]=i;
             k++;
           inter[i]--;
           
          }
        }
-        int []a=new int[k];
-        for(int i=0;i<k;i++)
-        {
-            a[i]=l.get(i);
-        }
-        return a;
+        
+        return Arrays.copyOfRange(l,0,k);
     }
 }
