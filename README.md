@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nithieskumar/sem/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nithieskumar/sem/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3194-find-words-containing-character](https://github.com/nithieskumar/sem/tree/master/3194-find-words-containing-character) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/nithieskumar/sem/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Simulation
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithieskumar/sem/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/nithieskumar/sem/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nithieskumar/sem/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/nithieskumar/sem/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Number Theory
 |  |
 | ------- |
