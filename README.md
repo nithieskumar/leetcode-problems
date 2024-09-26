@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nithieskumar/sem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nithieskumar/sem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nithieskumar/sem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/nithieskumar/sem/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/nithieskumar/sem/tree/master/0414-third-maximum-number) |
 | [1256-rank-transform-of-an-array](https://github.com/nithieskumar/sem/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nithieskumar/sem/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nithieskumar/sem/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/nithieskumar/sem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nithieskumar/sem/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/nithieskumar/sem/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/nithieskumar/sem/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/nithieskumar/sem/tree/master/0874-backspace-string-compare) |
 | [1205-defanging-an-ip-address](https://github.com/nithieskumar/sem/tree/master/1205-defanging-an-ip-address) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nithieskumar/sem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/nithieskumar/sem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nithieskumar/sem/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/nithieskumar/sem/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/nithieskumar/sem/tree/master/0398-random-pick-index) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nithieskumar/sem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/nithieskumar/sem/tree/master/0782-jewels-and-stones) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nithieskumar/sem/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/nithieskumar/sem/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nithieskumar/sem/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/nithieskumar/sem/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nithieskumar/sem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/nithieskumar/sem/tree/master/0464-can-i-win) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithieskumar/sem/tree/master/1786-count-the-number-of-consistent-strings) |
