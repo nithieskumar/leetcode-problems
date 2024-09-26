@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/nithieskumar/sem/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nithieskumar/sem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nithieskumar/sem/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nithieskumar/sem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1031-add-to-array-form-of-integer](https://github.com/nithieskumar/sem/tree/master/1031-add-to-array-form-of-integer) |
 | [1256-rank-transform-of-an-array](https://github.com/nithieskumar/sem/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nithieskumar/sem/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nithieskumar/sem/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/nithieskumar/sem/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/nithieskumar/sem/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nithieskumar/sem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/nithieskumar/sem/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nithieskumar/sem/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nithieskumar/sem/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nithieskumar/sem/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nithieskumar/sem/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/nithieskumar/sem/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nithieskumar/sem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0874-backspace-string-compare](https://github.com/nithieskumar/sem/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/nithieskumar/sem/tree/master/0908-middle-of-the-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/nithieskumar/sem/tree/master/2551-apply-operations-to-an-array) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/nithieskumar/sem/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/nithieskumar/sem/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/nithieskumar/sem/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nithieskumar/sem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/nithieskumar/sem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nithieskumar/sem/tree/master/0387-first-unique-character-in-a-string) |
 | [0398-random-pick-index](https://github.com/nithieskumar/sem/tree/master/0398-random-pick-index) |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/nithieskumar/sem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nithieskumar/sem/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nithieskumar/sem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/nithieskumar/sem/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/nithieskumar/sem/tree/master/0441-arranging-coins) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nithieskumar/sem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
