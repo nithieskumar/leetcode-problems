@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/nithieskumar/sem/tree/master/2486-most-frequent-even-element) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nithieskumar/sem/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/nithieskumar/sem/tree/master/2551-apply-operations-to-an-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nithieskumar/sem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/nithieskumar/sem/tree/master/3194-find-words-containing-character) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/nithieskumar/sem/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Divide and Conquer
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nithieskumar/sem/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/nithieskumar/sem/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/nithieskumar/sem/tree/master/2331-intersection-of-multiple-arrays) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nithieskumar/sem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/nithieskumar/sem/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/nithieskumar/sem/tree/master/0908-middle-of-the-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/nithieskumar/sem/tree/master/2551-apply-operations-to-an-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nithieskumar/sem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/nithieskumar/sem/tree/master/0808-number-of-matching-subsequences) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nithieskumar/sem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/nithieskumar/sem/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nithieskumar/sem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Reservoir Sampling
 |  |
 | ------- |
