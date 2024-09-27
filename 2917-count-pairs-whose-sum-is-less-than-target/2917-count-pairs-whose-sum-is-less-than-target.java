@@ -3,9 +3,10 @@ class Solution {
         int c=0;
         for(int i=0;i<nums.size();i++)
         {
+            int r=nums.get(i);
             for(int j=i+1;j<nums.size();j++)
             {
-                if((nums.get(i)+nums.get(j))<target)
+                if((r+nums.get(j))<target)
                 {
                     c++;
                 }
