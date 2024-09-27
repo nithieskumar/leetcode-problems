@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/nithieskumar/sem/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/nithieskumar/sem/tree/master/2331-intersection-of-multiple-arrays) |
 | [2486-most-frequent-even-element](https://github.com/nithieskumar/sem/tree/master/2486-most-frequent-even-element) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/nithieskumar/sem/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nithieskumar/sem/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/nithieskumar/sem/tree/master/2551-apply-operations-to-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nithieskumar/sem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/nithieskumar/sem/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nithieskumar/sem/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nithieskumar/sem/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/nithieskumar/sem/tree/master/2536-determine-if-two-events-have-conflict) |
 | [3194-find-words-containing-character](https://github.com/nithieskumar/sem/tree/master/3194-find-words-containing-character) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/nithieskumar/sem/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Simulation
