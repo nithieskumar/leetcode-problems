@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nithieskumar/sem/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/nithieskumar/sem/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nithieskumar/sem/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/nithieskumar/sem/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1675-magnetic-force-between-two-balls](https://github.com/nithieskumar/sem/tree/master/1675-magnetic-force-between-two-balls) |
 | [1755-defuse-the-bomb](https://github.com/nithieskumar/sem/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithieskumar/sem/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/nithieskumar/sem/tree/master/0808-number-of-matching-subsequences) |
 | [1256-rank-transform-of-an-array](https://github.com/nithieskumar/sem/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nithieskumar/sem/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/nithieskumar/sem/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithieskumar/sem/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/nithieskumar/sem/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nithieskumar/sem/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/nithieskumar/sem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nithieskumar/sem/tree/master/0387-first-unique-character-in-a-string) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/nithieskumar/sem/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithieskumar/sem/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nithieskumar/sem/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2331-intersection-of-multiple-arrays](https://github.com/nithieskumar/sem/tree/master/2331-intersection-of-multiple-arrays) |
