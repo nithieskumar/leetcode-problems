@@ -1,6 +1,7 @@
 class Solution {
     public int minElement(int[] nums) {
         int n=nums.length;
+        int min=Integer.MAX_VALUE;
         for(int i=0;i<n;i++)
         {
             int k=nums[i];
@@ -12,9 +13,13 @@ class Solution {
                k=k/10;
             }
             nums[i]=sum;
+            if(nums[i]<min)
+            {
+                min=nums[i];
+            }
+            
         }
-        Arrays.sort(nums);
-        return nums[0];
+        return min;
 
     }
 }
