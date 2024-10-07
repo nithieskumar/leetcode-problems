@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nithieskumar/sem/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2551-apply-operations-to-an-array](https://github.com/nithieskumar/sem/tree/master/2551-apply-operations-to-an-array) |
 | [2857-total-distance-traveled](https://github.com/nithieskumar/sem/tree/master/2857-total-distance-traveled) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/nithieskumar/sem/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Math
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2857-total-distance-traveled](https://github.com/nithieskumar/sem/tree/master/2857-total-distance-traveled) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nithieskumar/sem/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/nithieskumar/sem/tree/master/3371-harshad-number) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/nithieskumar/sem/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/nithieskumar/sem/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nithieskumar/sem/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/nithieskumar/sem/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
